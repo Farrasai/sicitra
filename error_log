@@ -1,0 +1,30 @@
+[03-Jan-2019 13:49:37 Asia/Jakarta] PHP Fatal error:  Call to a member function cek_login() on a non-object in /home/sicx8846/public_html/application/controllers/Login.php on line 16
+[03-Jan-2019 14:01:22 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ')' in /home/sicx8846/public_html/application/controllers/Login.php on line 15
+[06-Jan-2019 15:08:08 Asia/Jakarta] PHP Fatal error:  Call to a member function getAllKB() on a non-object in /home/sicx8846/public_html/application/controllers/Konsul_KB.php on line 13
+[09-Jan-2019 14:31:16 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/sicx8846/public_html/application/models/KB_model.php on line 11
+[09-Jan-2019 14:45:49 Asia/Jakarta] PHP Fatal error:  Call to a member function tambahDataKonKB() on a non-object in /home/sicx8846/public_html/application/controllers/Konsul_KB.php on line 34
+[09-Jan-2019 15:00:44 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/sicx8846/public_html/application/views/konsul_kb/index.php on line 60
+[09-Jan-2019 15:07:01 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/sicx8846/public_html/application/models/KB_model.php on line 10
+[09-Jan-2019 16:30:45 Asia/Jakarta] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/sicx8846/public_html/application/controllers/Konsul_puspaga.php on line 6
+[09-Jan-2019 20:12:16 Asia/Jakarta] PHP Fatal error:  Call to undefined method KB_model::getKBById() in /home/sicx8846/public_html/application/controllers/Konsul_KB.php on line 46
+[09-Jan-2019 20:12:59 Asia/Jakarta] PHP Fatal error:  Call to undefined method KB_model::getKBById() in /home/sicx8846/public_html/application/controllers/Konsul_KB.php on line 46
+[09-Jan-2019 20:13:02 Asia/Jakarta] PHP Fatal error:  Call to undefined method KB_model::getKBById() in /home/sicx8846/public_html/application/controllers/Konsul_KB.php on line 46
+[09-Jan-2019 20:37:05 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'templates' (T_STRING) in /home/sicx8846/public_html/application/controllers/Konsul_KB.php on line 55
+[10-Jan-2019 21:55:05 Asia/Jakarta] PHP Fatal error:  Call to a member function set_rules() on a non-object in /home/sicx8846/public_html/application/controllers/Register.php on line 11
+[11-Jan-2019 14:55:14 Asia/Jakarta] PHP Fatal error:  Call to a member function hitungJumlahAsset() on a non-object in /home/sicx8846/public_html/application/controllers/Pengadu.php on line 8
+[11-Jan-2019 22:01:53 Asia/Jakarta] PHP Fatal error:  Call to undefined method Berita_model::getKBById() in /home/sicx8846/public_html/application/controllers/Berita.php on line 9
+[12-Jan-2019 13:41:25 Asia/Jakarta] PHP Parse error:  syntax error, unexpected end of file in /home/sicx8846/public_html/application/views/pengaduan/index.php on line 55
+[12-Jan-2019 22:09:03 Asia/Jakarta] PHP Fatal error:  Call to a member function getAduanById() on a non-object in /home/sicx8846/public_html/application/controllers/Pengaduan.php on line 26
+[12-Jan-2019 22:10:29 Asia/Jakarta] PHP Fatal error:  Call to a member function getAduanById() on a non-object in /home/sicx8846/public_html/application/controllers/Pengaduan.php on line 26
+[12-Jan-2019 22:10:35 Asia/Jakarta] PHP Fatal error:  Call to a member function getAduanById() on a non-object in /home/sicx8846/public_html/application/controllers/Pengaduan.php on line 26
+[13-Jan-2019 16:12:15 Asia/Jakarta] PHP Fatal error:  Call to a member function initialize() on a non-object in /home/sicx8846/public_html/application/controllers/Berita.php on line 42
+[13-Jan-2019 16:12:15 Asia/Jakarta] PHP Fatal error:  Call to a member function initialize() on a non-object in /home/sicx8846/public_html/application/controllers/Berita.php on line 42
+[13-Jan-2019 16:13:03 Asia/Jakarta] PHP Fatal error:  Call to a member function initialize() on a non-object in /home/sicx8846/public_html/application/controllers/Berita.php on line 42
+[13-Jan-2019 16:13:03 Asia/Jakarta] PHP Fatal error:  Call to a member function initialize() on a non-object in /home/sicx8846/public_html/application/controllers/Berita.php on line 42
+[13-Jan-2019 16:16:48 Asia/Jakarta] PHP Fatal error:  Call to a member function initialize() on a non-object in /home/sicx8846/public_html/application/controllers/Berita.php on line 44
+[13-Jan-2019 16:16:48 Asia/Jakarta] PHP Fatal error:  Call to a member function initialize() on a non-object in /home/sicx8846/public_html/application/controllers/Berita.php on line 44
+[15-Jan-2019 20:24:36 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/sicx8846/public_html/application/models/KB_model.php on line 49
+[15-Jan-2019 20:25:37 Asia/Jakarta] PHP Fatal error:  Call to undefined function rediret() in /home/sicx8846/public_html/application/models/KB_model.php on line 48
+[15-Jan-2019 20:31:27 Asia/Jakarta] PHP Fatal error:  Call to undefined function rediret() in /home/sicx8846/public_html/application/models/KB_model.php on line 48
+[15-Jan-2019 20:37:20 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'parent' (T_STRING), expecting function (T_FUNCTION) in /home/sicx8846/public_html/application/models/KB_model.php on line 6
+[15-Jan-2019 21:11:13 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ',' in /home/sicx8846/public_html/application/models/KB_model.php on line 40
